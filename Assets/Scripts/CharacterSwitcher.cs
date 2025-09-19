@@ -29,7 +29,7 @@ public class CharacterSwitcher : MonoBehaviour
         // Tüm karakterlerin kontrolünü kapat
         player1.isControlled = false;
         player2.isControlled = false;
-
+        
         // Sadece seçili karakterin kontrolünü aç
         if (index == 0)
         {
@@ -45,7 +45,7 @@ public class CharacterSwitcher : MonoBehaviour
         }
 
         // Kamera pozisyonunu ve rotasyonunu sıfırla
-        tpsCamera.transform.localPosition = new Vector3(0, 5, -5);
-        tpsCamera.transform.localEulerAngles = new Vector3(45, 0, 0);
+        tpsCamera.transform.localPosition = new Vector3(0, 3, -5);
+        tpsCamera.transform.localEulerAngles = new Vector3(33, 0, 0);
     }
 }

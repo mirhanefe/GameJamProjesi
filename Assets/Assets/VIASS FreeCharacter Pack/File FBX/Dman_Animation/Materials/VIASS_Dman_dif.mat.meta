@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c9bec74b55c30f34583fb170adb3ef8e
+timeCreated: 1552026266
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141471
+  packageName: VIASS Free Character Pack
+  packageVersion: 1.0
+  assetPath: Assets/VIASS FreeCharacter Pack/File FBX/Dman_Animation/Materials/VIASS_Dman_dif.mat
+  uploadId: 298704
